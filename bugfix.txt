@@ -1,1 +1,2 @@
 problem z - (zakres prawdopodobnie trzeba poprawic bo wywala czasem zle znaki poza zakresem)
+also poprawić funkcje wykrywającą czy wybrało się poprawny numer z menu (wypierdala czasem tez)
